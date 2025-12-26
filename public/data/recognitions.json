@@ -1,0 +1,62 @@
+[
+  {
+    "id": "rec-1",
+    "sender": "Avery Chen",
+    "receiver": "Jordan Malik",
+    "message": "Thank you for pairing with me late last night to unblock the deployment. Your calm mindset helped everyone stay focused.",
+    "category": "Teamwork",
+    "emoji": "🤝",
+    "createdAt": "2024-05-12T14:32:00.000Z",
+    "liked": true
+  },
+  {
+    "id": "rec-2",
+    "sender": "Priya Patel",
+    "receiver": "Maya Fernandez",
+    "message": "Amazing job facilitating the accessibility review. You made complex WCAG updates easy to digest for the entire squad!",
+    "category": "Excellence",
+    "emoji": "🌟",
+    "createdAt": "2024-05-10T09:12:00.000Z",
+    "liked": false
+  },
+  {
+    "id": "rec-3",
+    "sender": "Marcus Green",
+    "receiver": "Samir Kahn",
+    "message": "Your kindness with the new interns sets the tone for the whole org. Thanks for always taking time to explain the \"style guide\" bits.",
+    "category": "Kindness",
+    "emoji": "💛",
+    "createdAt": "2024-05-08T16:45:00.000Z",
+    "liked": false
+  },
+  {
+    "id": "rec-4",
+    "sender": "Ismail Ali",
+    "receiver": "Devin Lee",
+    "message": "Appreciate you leading stand-up while I was out. The action items doc you shared kept everyone aligned.",
+    "category": "Teamwork",
+    "emoji": "📋",
+    "createdAt": "2024-05-05T11:20:00.000Z",
+    "liked": true
+  },
+  {
+    "id": "rec-5",
+    "sender": "Nora Bryant",
+    "receiver": "Avery Chen",
+    "message": "You quietly resolved the flaky test runs over the weekend. That's excellence in action and it saved the squad hours.",
+    "category": "Excellence",
+    "emoji": "🚀",
+    "createdAt": "2024-05-02T18:05:00.000Z",
+    "liked": false
+  },
+  {
+    "id": "rec-6",
+    "sender": "Jordan Malik",
+    "receiver": "Ismail Ali",
+    "message": "Thanks for reviewing my onboarding checklist and flagging the missing security steps. Your attention to detail is a gift to the team.",
+    "category": "Kindness",
+    "emoji": "🙏",
+    "createdAt": "2024-04-29T13:55:00.000Z",
+    "liked": false
+  }
+]
